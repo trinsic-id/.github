@@ -1,2 +1,4 @@
-# The leading infrastructure for building identity products
-[trinsic.id](https://trinsic.id)
+# Welcome to Trinsic
+
+The leading infrastructure for building identity products
+
