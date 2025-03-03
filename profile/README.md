@@ -1,4 +1,4 @@
 # Welcome to Trinsic
 
-The leading infrastructure for building identity products
+Digital ID acceptance made easy
 
